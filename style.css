@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: #001e4d;
+    background: #353535;
 }
 .app{
     background: #fff;
@@ -17,7 +17,7 @@ body{
 }
 .app h1{
     font-weight: 25px;
-    color: #001e4d;
+    color: #353535;
     font-weight: 600;
     border-bottom: 1px solid #333;
     padding-bottom: 30px;
@@ -27,7 +27,7 @@ body{
 }
 .quiz h2{
     font-size: 18px;
-    color: #001e4d;
+    color: #353535;
     font-weight: 600;
 }
 .btn{
@@ -50,7 +50,7 @@ body{
     cursor: no-drop;
 }
 #next-btn{
-    background: #001e4d;
+    background:#353535;
     color: #fff;
     font-weight: 500;
     width: 150px;
